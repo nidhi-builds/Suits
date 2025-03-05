@@ -1,4 +1,7 @@
 // Main.java
+//Name: Nidhi Pandit
+//PRN:23070126081
+//Batch:B1
 import java.util.Scanner;
 
 class Main {
