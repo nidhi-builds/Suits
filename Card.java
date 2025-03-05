@@ -1,8 +1,4 @@
 // Card.java
-// Name: [Your Name] 
-// PRN: [Your PRN] 
-// Batch: [Your Batch]
-
 class Card {
     private String rank;
     private String suit;
